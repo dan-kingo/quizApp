@@ -1,0 +1,62 @@
+[
+    {
+        "question_text":"Which one of the following collection is ordered and unchangeable?",
+        "alternatives":[
+            "List",
+            "Set",
+            "Tuple",
+            "Dictionary\n"
+        ],
+
+        "correct_answer":3
+    },
+
+    {
+        "question_text":"names = ['Dan', 'Betty', 'Neju', 'Jhon', 'Mika', 'Tsedi', 'Dea'] \n print(names[-3, -1]) \n What is the output of the above code snippet?",
+        "alternatives":[
+            "['Mika', 'Tsedi']",
+            "['Tsedi']",
+            "['Tsedi', 'Miki']",
+            "['Miki', 'Tsedi', 'Dea']\n"
+        ],
+
+        "correct_answer":1
+    },
+
+    {
+    "question_text":"What is the data type of the output that we get from input function?",
+    "alternatives":[
+        "int",
+        "str",
+        "float",
+        "dict\n"
+    ],
+
+    "correct_answer":2
+},
+
+{
+    "question_text":"Which one of the following character used to insert comments?",
+    "alternatives":[
+        "// comments",
+        "/* comments */",
+        "<!-- comments -->",
+        "# comments\n"
+    ],
+
+    "correct_answer":4
+},
+
+{
+    "question_text":"what is the keyword that used to define a function block?",
+    "alternatives":[
+        "define",
+        "function",
+        "with",
+        "def\n"
+    ],
+
+    "correct_answer":4
+}
+
+]
