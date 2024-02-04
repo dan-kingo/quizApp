@@ -5,7 +5,7 @@ import utils
 sample CLI based Quiz App
 developed by @dan-kingo
 
-you can get the project file at https://www.github.com/dan-kingo/quizApp
+you can get the project file at https://www.github.com/dan-kingo/quizApp/tree/master
 """
 
 contents = utils.question_loder()
