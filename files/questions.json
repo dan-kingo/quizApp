@@ -57,6 +57,106 @@
     ],
 
     "correct_answer":4
+},
+    {
+    "question_text": "In Python, what is the correct syntax to create an empty list?",
+    "alternatives": [
+        "empty_list = []",
+        "empty_list = {}",
+        "empty_list = ()",
+        "empty_list = set()\n"
+    ],
+    "correct_answer": 1
+},
+{
+    "question_text": "What is the output of the following code?\n\nx = [1, 2, 3]\nprint(x[1:])",
+    "alternatives": [
+        "[1, 2, 3]",
+        "[2, 3]",
+        "[1]",
+        "Error\n"
+    ],
+    "correct_answer": 2
+},
+    {
+    "question_text": "Which of the following is a correct way to check if a key exists in a dictionary in Python?",
+    "alternatives": [
+        "if key in dict:",
+        "if dict.contains(key):",
+        "if key.exists() in dict:",
+        "if dict.hasKey(key):\n"
+    ],
+    "correct_answer": 1
+},
+    {
+    "question_text": "What does the 'pop()' method do in Python?",
+    "alternatives": [
+        "Removes the last element from a list and returns it",
+        "Adds an element to the end of a list",
+        "Removes the first element from a list and returns it",
+        "Removes the specified index element from a list and returns it\n"
+    ],
+    "correct_answer": 1
+},
+    {
+    "question_text": "What is the correct data type for storing a sequence of characters in Python?",
+    "alternatives": [
+        "int",
+        "str",
+        "list",
+        "float\n"
+    ],
+    "correct_answer": 2
+},
+    {
+    "question_text": "What is the result of the following expression in Python?\n\n`5 // 2`",
+    "alternatives": [
+        "2.5",
+        "2",
+        "2.0",
+        "2.1\n"
+    ],
+    "correct_answer": 2
+},
+    {
+    "question_text": "In Python, what is the correct way to convert a string to an integer?",
+    "alternatives": [
+        "int(string)",
+        "string.toInt()",
+        "convertToInt(string)",
+        "str_to_int(string)\n"
+    ],
+    "correct_answer": 1
+},
+    {
+    "question_text": "What is the primary purpose of the 'None' keyword in Python?",
+    "alternatives": [
+        "It represents an undefined or null value",
+        "It is used to create an empty dictionary",
+        "It signifies an error in the code",
+        "It represents an infinite value\n"
+    ],
+    "correct_answer": 1
+},
+    {
+    "question_text": "What does the '!= 'operator signify in Python?",
+    "alternatives": [
+        "Equal to",
+        "Greater than or equal to",
+        "Not equal to",
+        "Less than or equal to\n"
+    ],
+    "correct_answer": 3
+},
+    {
+    "question_text": "What is the result of the following expression in Python?\n\n`3 ** 4`",
+    "alternatives": [
+        "81",
+        "12",
+        "64",
+        "7\n"
+    ],
+    "correct_answer": 3
 }
 
 ]
