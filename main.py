@@ -39,7 +39,7 @@ for index, question in enumerate(data):
 print(f"Your score is {score}/{len(data)}")
 
 percentage = (score / len(data)) * 100
-percentage = int("{:.2f}".format(percentage))
+percentage = float(f"{percentage:.2f}")
 
 if percentage >= 90:
     print("You got grade 'A+'")
